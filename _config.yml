@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "{{site_name}}"
+title: "Meta Space Sample #4"
 subtitle: ""
-description: ""
+description: "Empty Sky"
 keywords:
-author: John Doe
+author: Alice Metaton
 language: en
 timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://{{github_username}}.github.io/{{site_name}}
+url: https://whyouare111.github.io/metaspace-sample-4
 root: /
 permalink: :title/
 permalink_defaults:
