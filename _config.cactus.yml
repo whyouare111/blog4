@@ -26,7 +26,7 @@ nav:
 social_links:
   github: http://github.com/whyouare111
 
-colorscheme: "light"
+colorscheme: "white"
 
 # Enable MathJax support for Latex
 mathjax:
