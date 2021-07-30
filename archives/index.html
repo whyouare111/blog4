@@ -65,8 +65,21 @@
    
   <!-- mathjax -->
   
+  <script type="text/x-mathjax-config">
+     MathJax.Hub.Config({
+    tex2jax: {
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      inlineMath: [['$','$']]
+    }
+     });
+  </script>
+  <script
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML"
+    async
+  ></script>
+  
   <!-- PWA -->
-  <link rel="manifest" href="/manifest.json" />
+  <link rel="manifest" href="./manifest.json" />
 <meta name="generator" content="Hexo 5.4.0"><link rel="alternate" href="/blog4/atom.xml" title="Meta Space Sample #4" type="application/atom+xml">
 </head>
 
